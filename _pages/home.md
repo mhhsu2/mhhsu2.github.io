@@ -4,13 +4,22 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  # overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
+    - label: "<i class='fal fa-file'></i> Resume"
       url: "/docs/quick-start-guide/"
-excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.21.0">Latest release v4.21.0</a></small>
+    - label: "<i class='fas fa-tasks'></i> Projects"
+      url: "/projects/"
+title: Hey, I am Min!
+excerpt: 
+  This is the place for storing my Data Science treasure.<br>
+  <small>
+    Check out my projects, codebases as well as readings, 
+    and hope you can find out something interesting and useful.
+  </small>
+intro: 
+  - title: A little about me
+  - excerpt: 
 feature_row:
   - image_path: /assets/images/test.png
     alt: "customizable"
@@ -34,5 +43,6 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
