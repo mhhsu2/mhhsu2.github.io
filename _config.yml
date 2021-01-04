@@ -16,9 +16,7 @@
 title: Min-Hsiu Hsu
 email: mhhsu2@illinois.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is Min's personal website storing data science, machine learning stuff.
 twitter_username: username
 github_username: mhhsu2
 minimal_mistakes_skin: default
@@ -78,16 +76,18 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/min1027/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+      url: "https://github.com/mhhsu2/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/jiagcvk/"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://mhhsu2.github.io"
 defaults:
   # _posts
   - scope:
