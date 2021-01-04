@@ -19,7 +19,7 @@ excerpt:
   </small> 
 intro: 
   - title: A little about me
-  - excerpt: I am looking for full-time positions in **Data Science**, **Machine Learning**, and **AI** after graduating in **May 2021** from the **University of Illinois at Urbana-Champaign** with an **M.S. degree in MechSE**.
+  - excerpt: I am looking for full-time positions in **Data Science**, **Machine Learning**, and **AI** after graduating in **May 2021** from the [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/) with an M.S. degree in MechSE.
   - excerpt: I was a Data Science Intern at <a href="https://www.irobot.com/about-irobot/careers/data-science-and-machine-learning"> iRobot</a> and a Machine Learning Engineer Intern at <a href="https://quantrend.ai/">Quantrend Technology</a>. I have an extensive background working with various fields including customer analytics, quantitative trading, industry 4.0, recommender system, computer vision, and reinforcement learning.
   - excerpt: So, why I am interested in Data Science? I am always excited to explore new areas, define problems, and utilize data to drive our decisions. Thus, Data Scientist gives me the perfect opportunity to purse what I love to do!
   - url: "/about/"
