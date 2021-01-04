@@ -61,6 +61,7 @@ author:
   name   : "Min-Hsiu Hsu"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "I am Min, a trained data practitioner and a passionate learner."
+  email  : "mhhsu2@illinois.edu"
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
