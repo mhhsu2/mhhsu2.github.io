@@ -12,5 +12,5 @@ I am excited to explore new areas. This is why I had experiences in a broad rang
 
 I expect I will be a "Full-stack data scientist" in 3 years, which means I could independently create business ideas, generate hypotheses, setup data pipeline, conduct analysis, give insights to stakeholders, and deploy & monitor models in production.
 
-<a href="/assets/images/min_resume.pdf" class="btn btn--info">Resume</a>
-<a href="/projects/" class="btn btn--info">Projects</a>
+<a href="/assets/images/min_resume.pdf" class="btn btn--warning btn--large">Resume</a>
+<a href="/projects/" class="btn btn--warning btn--large">Projects</a>
