@@ -10,4 +10,6 @@ I am currently an M.S. student from the [University of Illinois at Urbana-Champa
 
 I am excited to explore new areas. This is why I had experiences in a broad range of fields from my previous positions and coursework including image object detection, signal processing, time-series prediction, recommendation system, etc. [See projects](about.md).
 
-# Experience
+I expect I will be a "Full-stack data scientist" in 3 years, which means I could independently create business ideas, generate hypotheses, setup data pipeline, conduct analysis, give insights to stakeholders, and deploy & monitor models in production.
+
+# 
