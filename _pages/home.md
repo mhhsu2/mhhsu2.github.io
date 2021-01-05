@@ -7,7 +7,7 @@ header:
   # overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
     - label: "<i class='fal fa-file'></i> Resume"
-      url: "/docs/quick-start-guide/"
+      url: "/assets/images/min_resume.pdf"
     - label: "<i class='fas fa-tasks'></i> Projects"
       url: "/projects/"
 title: Hey, I am Min!

@@ -8,8 +8,9 @@ I am currently an M.S. student from the [University of Illinois at Urbana-Champa
 
 <!-- Some people may wonder why I switched from mechanical engineering to data science. In fact, it was the engineering background helps me to discover my interests in data science. As an engineer, we need to make sure things work well with theory and experimental data. With models and hypothesis testing, aren't we doing the same as a data scientist? -->
 
-I am excited to explore new areas. This is why I had experiences in a broad range of fields from my previous positions and coursework including image object detection, signal processing, time-series prediction, recommendation system, etc. [See projects](about.md).
+I am excited to explore new areas. This is why I had experiences in a broad range of fields from my previous positions and coursework including image object detection, signal processing, time-series prediction, recommendation system, etc. Please checkout my project page!
 
 I expect I will be a "Full-stack data scientist" in 3 years, which means I could independently create business ideas, generate hypotheses, setup data pipeline, conduct analysis, give insights to stakeholders, and deploy & monitor models in production.
 
-# 
+<a href="/assets/images/min_resume.pdf" class="btn btn--info">Resume</a>
+<a href="/projects/" class="btn btn--info">Projects</a>
