@@ -52,4 +52,7 @@ feature_row:
 ---
 {% include feature_row id="intro" type="center" %}
 
+<h2 class="archive__item-title">How others think about me</h2>
+{% include rec.html %}
+
 {% include feature_row %}
