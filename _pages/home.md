@@ -13,7 +13,7 @@ header:
     - label: "<i class='fas fa-tasks'></i> Projects"
       url: "/projects/"
 title: Hey, I am Min!
-excerpt: <small>I am looking for full-time positions in **Data Science**, **Machine Learning**, and **AI** after graduating in **May 2021** from the University of Illinois Urbana-Champaign (UIUC) with an M.S. degree in MechSE. <br><br> I was a Data Science Intern at <a href="https://www.irobot.com/about-irobot/careers/data-science-and-machine-learning"> iRobot</a> and a Machine Learning Engineer Intern at <a href="https://quantrend.ai/">Quantrend Technology</a>. I have an extensive background working with various fields including customer analytics, quantitative trading, industry 4.0, recommender system, computer vision, and reinforcement learning.</small>
+excerpt: <small>I am looking for full-time positions in **Data Science**, **Machine Learning**, and **AI** after graduating in **May 2021** from the University of Illinois Urbana-Champaign (UIUC) with an M.S. degree in MechSE. <br><br> I was a Data Science Intern at <a href="https://www.irobot.com/about-irobot/careers/data-science-and-machine-learning"> iRobot</a> and a Machine Learning Engineer Intern at <a href="https://quantrend.ai/">Quantrend Technology</a>. I have an extensive background working with various fields including predictive maintenance, customer analytics, quantitative trading, industry 4.0, recommender system, computer vision, and reinforcement learning.</small>
 
 # intro: 
 #   - title: A little about me
@@ -23,6 +23,17 @@ excerpt: <small>I am looking for full-time positions in **Data Science**, **Mach
 #     btn_class: "btn--info"
 #     btn_label: "Learn more about me"    
 
+# feature_row_2:
+#   - image_path: /assets/images/quantrend.jpg
+#     alt: "Quantrend Technology"
+#     title: "Machine Learning Engineer Intern"
+#     date: "(Fall 2020)"
+#     excerpt: "Reinforcement Learning and Machine Learning based quantitative trading."
+#   - image_path: /assets/images/irobot.jpg
+#     alt: "iRobot"
+#     title: "Data Science Intern"
+#     date: "(Summer 2020)"
+#     excerpt: "Root cause finding in robot failure from customer behavior and give insights in product improvement."
 
 feature_row:
   - image_path: /assets/images/test.png
@@ -49,7 +60,10 @@ feature_row:
 ---
 <!-- {% include feature_row id="intro" type="center" %} -->
 
+<!-- <h2 class="archive__item-title">Experience</h2>
+{% include feature_row_2 %} -->
+
 <h2 class="archive__item-title">How others think about me</h2>
 {% include rec.html %}
 
-{% include feature_row %}
+<!-- {% include feature_row %} -->
