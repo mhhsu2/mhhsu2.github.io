@@ -2,7 +2,8 @@
 permalink: /about/
 title: "About me"
 toc: true
-feature_row_1:
+feature_row_2:
+  - id: micron
   - image_path: /assets/images/micron.jpg
     alt: "Micron Technology"
     title: "Data Scientist"
@@ -10,12 +11,12 @@ feature_row_1:
     excerpt: "Function as a full-stack data scientist working on decision optimization and quality forecast."  
 
 feature_row_2:
+  - id: mq
   - image_path: /assets/images/quantrend.jpg
     alt: "Quantrend Technology"
     title: "Machine Learning Engineer Intern"
     date: "Sep 2020 - Dec 2020"
     excerpt: "Refactored internal reinforcement learning codebase written in TensorFlow by following Stable Baselines and Factory Method, allowing researchers to do experiments with flexible model choices."
-feature_row_3:
   - image_path: /assets/images/irobot.jpg
     alt: "iRobot"
     title: "Data Science Intern"
@@ -36,9 +37,8 @@ I am excited to explore new areas and passionate about building cool stuff. This
 <a href="/projects/" class="btn btn--warning btn--large">Projects</a>
 
 # Experience
-{% include feature_row_1 %}
-{% include feature_row_2 %}
-{% include feature_row_3 %}
+{% include feature_row_2 id="micron" %}
+{% include feature_row_2 id="mq" %}
 
 # Recommendation
 {% include rec.html %}
