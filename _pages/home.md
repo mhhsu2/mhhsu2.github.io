@@ -13,7 +13,7 @@ header:
     - label: "<i class='fas fa-tasks'></i> Projects"
       url: "/projects/"
 title: Hey, I am Min!
-excerpt: <small>I am looking for software engineer/machine learning engineer positions. As my experience as a data scientist/machine learning engineer, I am interested in the intersection between software engineering and data science/machine learning, so I am passionate about building cool software systems and leverage my strength in collaborating with people in a multi-functional team!</small>
+excerpt: <small>I am looking for **software engineer/machine learning engineer** positions. I am passionate about building cool software systems and eager to leverage my strength in collaborating with people in a diverse team using my extensive background working with data scientists, software engineers, data engineers!</small>
 
 # intro: 
 #   - title: A little about me
