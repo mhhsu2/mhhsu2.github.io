@@ -13,7 +13,7 @@ header:
     - label: "<i class='fas fa-tasks'></i> Projects"
       url: "/projects/"
 title: Hey, I am Min!
-excerpt: <small>I am looking for full-time positions in **Data Science**, **Machine Learning**, and **AI** after graduating in **May 2021** from the University of Illinois Urbana-Champaign (UIUC) with an M.S. degree in MechSE. <br><br> I was a Data Science Intern at <a href="https://www.irobot.com/about-irobot/careers/data-science-and-machine-learning"> iRobot</a> and a Machine Learning Engineer Intern at <a href="https://quantrend.ai/">Quantrend Technology</a>. I have an extensive background working with various fields including predictive maintenance, customer analytics, quantitative trading, industry 4.0, recommender system, computer vision, and reinforcement learning.</small>
+excerpt: <small>I am looking for software engineer/machine learning engineer positions. As my experience as a data scientist/machine learning engineer, I am interested in the intersection between software engineering and data science/machine learning, so I am passionate about building cool software systems and leverage my strength in collaborating with people in a multi-functional team!</small>
 
 # intro: 
 #   - title: A little about me
